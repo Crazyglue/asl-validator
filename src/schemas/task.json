@@ -41,7 +41,7 @@
           "ErrorEquals": {
             "type": "array",
             "items": {
-              "types": "string"
+              "type": "string"
             }
           },
           "IntervalSeconds": {
@@ -68,7 +68,7 @@
           "ErrorEquals": {
             "type": "array",
             "items": {
-              "types": "string"
+              "type": "string"
             }
           },
           "Next": {
